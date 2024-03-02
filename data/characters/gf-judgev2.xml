@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character isGF="true" x="50" y="80" icon="gf" color="#A5004D" scale="0.6" sprite="GF_Tablev2">
+	<anim name="cheer" anim="GF Cheer" fps="24" loop="false" x="170" y="79"/>
+	<anim name="sad" anim="gf sad" fps="24" loop="false" x="170" y="63"/>
+	<anim name="danceLeft" anim="GF Dancing Beat instance 1" fps="24" loop="false" x="171" y="73" indices="30,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14"/>
+	<anim name="danceRight" anim="GF Dancing Beat instance 1" fps="24" loop="false" x="171" y="73" indices="15,16,17,18,19,20,21,22,23,24,25,26,27,28,29"/>
+	<anim name="singLEFT" anim="GF_Left" fps="24" loop="false" x="171" y="71"/>
+	<anim name="singRIGHT" anim="GF_Right" fps="24" loop="false" x="171" y="70"/>
+	<anim name="singDOWN" anim="GF_Down" fps="24" loop="false" x="171" y="69"/>
+	<anim name="singUP" anim="GF_Up" fps="24" loop="false" x="171" y="74"/>
+	<anim name="spooked" anim="GF_Spooked" fps="24" loop="false" x="171" y="70"/>
+</character>

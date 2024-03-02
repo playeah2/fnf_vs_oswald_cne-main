@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-character>
+<character y="30" holdTime="6.1" camx="-60" camy="30" color="#DC78C8" scale="0.9" sprite="Pipecleaner_v3">
+	<anim name="singLEFT" anim="PS_Left instance" fps="24" loop="false" x="76" y="6"/>
+	<anim name="singDOWN" anim="PS_Down instance" fps="24" loop="false" x="-21" y="-29"/>
+	<anim name="singUP" anim="PS_Up instance" fps="24" loop="false" x="0" y="100"/>
+	<anim name="singRIGHT" anim="PS_Right instance" fps="24" loop="false" x="-94" y="-143"/>
+	<anim name="danceLeft" anim="PS_danceLeft instance" fps="24" loop="false" x="8" y="0"/>
+	<anim name="danceRight" anim="PS_danceRight instance" fps="24" loop="false" x="0" y="-4"/>
+	<anim name="singLEFT-alt" anim="PS_Left_Alt" fps="24" loop="false" x="100" y="-22"/>
+	<anim name="singDOWN-alt" anim="PS_Down_Alt" fps="24" loop="false" x="-21" y="-30"/>
+	<anim name="singUP-alt" anim="PS_Up_Alt" fps="24" loop="false" x="22" y="96"/>
+	<anim name="singRIGHT-alt" anim="PS_Right_Alt" fps="24" loop="false" x="-95" y="-143"/>
+	<anim name="danceLeft-alt" anim="PS_danceLeft_Alt" fps="24" loop="false" x="7" y="4"/>
+	<anim name="danceRight-alt" anim="PS_danceRight_Alt" fps="24" loop="false" x="10" y="-4"/>
+	<anim name="scream" anim="PS_Scream" fps="24" loop="false" x="55" y="17"/>
+	<anim name="pipecleaner" anim="PS_pipecleaner" fps="24" loop="false" x="57" y="10"/>
+</character>

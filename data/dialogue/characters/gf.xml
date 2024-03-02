@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-dialogue-character>
+<character sprite="GF_Dialogue" x="130" y="80" scalex="1" scaley="1" textSound="gf_dialogue">
+	<anim name="normal" anim="GF LOOP" x="56" y="-9" fps="24" loop="true" />
+</character>

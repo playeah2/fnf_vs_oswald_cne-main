@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character x="-70" icon="oswald" camx="-120" y="200" isGF="false" camy="40" color="#5087FF" flipX="true" isPlayer="true" holdTime="6.1" sprite="Oswald_Playerv2_Fear">
+	<anim x="-40" loop="true" y="36" fps="24" anim="Os_Pipecleaner" name="idle"/>
+</character>

@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-dialogue-character>
+<character sprite="Oswald" x="130" y="80" scalex="0.7" scaley="0.7" textSound="oswald_dialogue">
+	<anim name="normal" anim="Os_Angry" x="56" y="-9" fps="24" loop ="true" />
+</character>

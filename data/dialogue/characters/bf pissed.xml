@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-dialogue-character>
+<character sprite="bf" x="280" y="-30" scalex="1" scaley="1" textSound="bf_dialogue">
+	<anim name="normal" anim="BF PISSED LOOP" x="56" y="-9" fps="24" loop ="true" />
+</character>

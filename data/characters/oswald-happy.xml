@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-character>
+<character x="-70" y="200" holdTime="6.1" camx="-60" camy="160" icon="oswald" color="#5087FF" sprite="Oswald_Happy_Assetsv2">
+	<anim name="singLEFT" anim="Os_Left instance" fps="24" loop="false" x="44" y="13"/>
+	<anim name="singDOWN" anim="Os_Down instance" fps="24" loop="false" x="-100" y="-221"/>
+	<anim name="singUP" anim="Os_Up instance" fps="24" loop="false" x="48" y="47"/>
+	<anim name="singRIGHT" anim="Os_Right instance" fps="24" loop="false" x="-121" y="-35"/>
+	<anim name="danceLeft" anim="Os_danceLeft instance" fps="24" loop="false" x="8" y="0"/>
+	<anim name="danceRight" anim="Os_danceRight instance" fps="24" loop="false" x="1" y="0"/>
+	<anim name="lucky" anim="Os_Lucky instance" fps="24" loop="false" x="18" y="51"/>
+	<anim name="singLEFT-alt" anim="Os_Left_Alt" fps="24" loop="false" x="45" y="14"/>
+	<anim name="singDOWN-alt" anim="Os_Down_Alt" fps="24" loop="false" x="-100" y="-220"/>
+	<anim name="singUP-alt" anim="Os_Up_Alt" fps="24" loop="false" x="48" y="47"/>
+	<anim name="singRIGHT-alt" anim="Os_Right_Alt" fps="24" loop="false" x="-121" y="-35"/>
+	<anim name="danceLeft-alt" anim="Os_danceLeft_Alt" fps="24" loop="false" x="8" y="0"/>
+	<anim name="danceRight-alt" anim="Os_danceRight_Alt" fps="24" loop="false" x="1" y="0"/>
+	<anim name="oldtimey" anim="Os_OldTimey" fps="24" loop="false" x="-81" y="0"/>
+</character>

@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="pipecleanerreal" camx="-60" y="30" isGF="false" scale="0.9" camy="30" color="#000000" isPlayer="false" holdTime="6.1" sprite="Pipecleaner_v3">
+	<anim x="57" loop="false" y="10" fps="24" anim="PS_pipecleaner" name="idle"/>
+</character>

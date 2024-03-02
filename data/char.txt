@@ -1,0 +1,8 @@
+oswald
+oswald-happy
+oswaldPipe
+oswald-player2
+oswald-player2-fear
+pipecleaner
+pipecleanerend
+pipecleanergrey

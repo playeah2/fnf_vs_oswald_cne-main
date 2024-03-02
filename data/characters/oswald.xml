@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character>
+<character x="-70" y="200" holdTime="6.1" camx="-60" camy="160" color="#5087FF" sprite="Oswald_Angry_Assets">
+	<anim name="singLEFT" anim="Os_Left_Angry" fps="24" loop="false" x="44" y="13"/>
+	<anim name="singDOWN" anim="Os_Down_Angry" fps="24" loop="false" x="-100" y="-221"/>
+	<anim name="singUP" anim="Os_Up_Angry" fps="24" loop="false" x="48" y="47"/>
+	<anim name="singRIGHT" anim="Os_Right_Angry" fps="24" loop="false" x="-121" y="-35"/>
+	<anim name="danceLeft" anim="Os_danceLeft_Angry" fps="24" loop="false" x="8" y="0"/>
+	<anim name="danceRight" anim="Os_danceRight_Angry" fps="24" loop="false" x="1" y="0"/>
+	<anim name="notold" anim="Os_NotOld" fps="24" loop="false" x="-42" y="212"/>
+	<anim name="hah" anim="Os_HAH" fps="24" loop="false" x="70" y="50"/>
+</character>
