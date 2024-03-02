@@ -1,0 +1,184 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default">
+	<!-- All characters -->
+	<char name="gf" char="gf" position="middle" />
+	<char name="gf stress" char="gf stress" position="middle" />
+	<char name="bf pissed" char="bf pissed" position="right" />
+	<char name="bf" char="bf" position="right" />
+	<char name="OswaldTalk" char="OswaldTalk" position="left"/>
+	<char name="OswaldSad" char="OswaldSad" position="left"/>
+	<char name="OswaldUpset" char="OswaldUpset" position="left"/>
+	<char name="OswaldVacand" char="OswaldVacand" position="left"/>
+	
+	
+
+	<!-- Lines -->
+	<line char="bf" changeMusic="rabbitfoot">
+		Well that last one was a bust... Who's up next?
+	</line>
+
+	<line char="gf">
+		hmmmm... the name's written in this really extravagant cursive...
+	</line>
+
+	<line char="gf">
+		I can't really read it...
+	</line>
+
+	<line char="gf">
+		Should I just call them in?
+	</line>
+
+	<line char="bf">
+		I guess so.
+	</line>
+
+	<line char="gf">
+		NEXT CONTESTANT, PLEASE COME OUT!
+	</line>
+
+	<line char="OswaldTalk">
+		Hey Hey!
+	</line>
+
+	<line char="bf">
+		Yo Yo!
+	</line>
+
+	<line char="gf">
+		Hello! Can you state your name and what you're auditioning for?
+	</line>
+
+	<line char="gf">
+		also be sure to face the camera when you do so!
+	</line>
+
+	<line char="OswaldTalk">
+		Camera, you say!?
+	</line>
+
+	<line char="OswaldTalk">
+		Well well well, Hello world!
+	</line>
+
+	<line char="OswaldTalk">
+		My name is one many of you may have heard, but certainly never gets old!
+	</line>
+
+	<line char="gf stress">
+		uhuh...
+	</line>
+
+	<line char="OswaldVacand">
+		Wait are you wanting me to say it in a certain way or---
+	</line>
+
+	<line char="bf">
+		bro just state your name. it is not that deep.
+	</line>
+
+	<line char="OswaldSad">
+		sOrry sorry!
+	</line>
+
+	<line char="OswaldTalk">
+		Well then I'll come out with it! My name is-
+	</line>
+
+	<line char="gf">
+		wait wait wait wait hold up--
+	</line>
+
+	<line char="gf">
+		you DO actually look familiar...
+	</line>
+
+	<line char="OswaldVacand">
+		Oh?
+	</line>
+
+	<line char="OswaldTalk">
+		Oh! Really!?
+	</line>
+
+	<line char="gf">
+		WAIT YEAH!! You're from---
+	</line>
+
+	<line char="gf stress">
+		oh what was it called...
+	</line>
+
+	<line char="OswaldTalk">
+		Haha! Great to hear my reputation still proceeds m-
+	</line>
+
+	<line char="bf">
+		You're Spinel! From Steven Universe!
+	</line>
+
+	<line char="OswaldVacand">
+		...
+	</line>
+
+	<line char="OswaldVacand">
+		no.
+	</line>
+
+	<line char="gf">
+		you're one of them 'Animaniacs', right!?
+	</line>
+
+	<line char="OswaldSad">
+		Pardon??
+	</line>
+
+	<line char="bf">
+		OH! I KNOW! I KNOW!
+	</line>
+
+	<line char="bf">
+		You're Mickey Mouse!
+	</line>
+
+	<line char="OswaldUpset">
+		I am...
+	</line>
+
+	<line char="OswaldUpset">
+		a fucking...
+	</line>
+
+	<line char="OswaldUpset">
+		RABBIT!!!!!
+	</line>
+
+	<line char="bf">
+		yeah but you look like an old geezer boobtoob cartoo-
+	</line>
+
+	<line char="OswaldUpset">
+		OSWALD! My name is OSWALD THE LUCKY RABBIT!
+	</line>
+
+	<line char="OswaldSad">
+		And I am auditioning for a music gig here.
+	</line>
+
+	<line char="gf stress">
+		Th-that was my next guess!... haha...
+	</line>
+
+	<line char="bf pissed">
+		OKAYYYYYY 'Oswald~!
+	</line>
+
+	<line char="bf">
+		You gonna show me what you got or what??
+	</line>
+
+	<line char="OswaldTalk">
+		With Pleasure!
+	</line>
+
+</dialogue>

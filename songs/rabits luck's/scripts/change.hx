@@ -74,7 +74,3 @@ function change_bf(type:String){
 		break;
         }
 }
-
-function onPlayerMiss(){
-	FlxG.sound.play(Paths.sound('pute'));
-}

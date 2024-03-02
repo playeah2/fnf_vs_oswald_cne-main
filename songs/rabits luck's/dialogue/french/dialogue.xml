@@ -13,28 +13,28 @@
 	
 
 	<!-- Lines -->
-	<line char="bf" >
-		Well that last one was a bust... Who's up next?
+	<line char="bf" changeMusic="rabbitfoot">
+		 Le dernier était un fiasco... Qui est le prochain?
 	</line>
 
 	<line char="gf">
-		hmmmm... the name's written in this really extravagant cursive...
+		hmmmm... le nom est écrit de facon vraiment extravagant...
 	</line>
 
 	<line char="gf">
-		I can't really read it...
+		et je ne peut pas vraiment le lire
 	</line>
 
 	<line char="gf">
-		Should I just call them in?
+		je devrait juste l'appler?
 	</line>
 
 	<line char="bf">
-		I guess so.
+		j'imagine que oui.
 	</line>
 
 	<line char="gf">
-		NEXT CONTESTANT, PLEASE COME OUT!
+		PROCHAIN PARTICIPANT, ENTREZ S'IL VOUS PLAÎT !
 	</line>
 
 	<line char="OswaldTalk">
@@ -46,23 +46,23 @@
 	</line>
 
 	<line char="gf">
-		Hello! Can you state your name and what you're auditioning for?
+		Bonjour! Pouvez vous nous dire votre nom et pour quoi vous auditionez ?
 	</line>
 
 	<line char="gf">
-		also be sure to face the camera when you do so!
+		aussi faite gaffe a faire face a la caméra !
 	</line>
 
 	<line char="OswaldTalk">
-		Camera, you say!?
+		Camera, vous dites!?
 	</line>
 
 	<line char="OswaldTalk">
-		Well well well, Hello world!
+		voyons voyons voyons, bonjour la compagnie!
 	</line>
 
 	<line char="OswaldTalk">
-		My name is one many of you may have heard, but certainly never gets old!
+		Mon nom est celui que beaucoup d'entre vous ont peut-être entendu, mais ne vieillit certainement jamais!
 	</line>
 
 	<line char="gf stress">
@@ -70,27 +70,27 @@
 	</line>
 
 	<line char="OswaldVacand">
-		Wait are you wanting me to say it in a certain way or---
+		Attendez, voulez-vous que je le dise d'une certaine façon ou...
 	</line>
 
 	<line char="bf">
-		bro just state your name. it is not that deep.
+		frêre juste dit nous ton nom. c'est pas si serieux.
 	</line>
 
 	<line char="OswaldSad">
-		sOrry sorry!
+		desoler!
 	</line>
 
 	<line char="OswaldTalk">
-		Well then I'll come out with it! My name is-
+		Donc je vais y venir! Mon nom est-
 	</line>
 
 	<line char="gf">
-		wait wait wait wait hold up--
+		attendez attendez attendez 2 segondes!
 	</line>
 
 	<line char="gf">
-		you DO actually look familiar...
+		tu AS un aspect familier!
 	</line>
 
 	<line char="OswaldVacand">
@@ -98,23 +98,23 @@
 	</line>
 
 	<line char="OswaldTalk">
-		Oh! Really!?
+		Oh! Vraiment!?
 	</line>
 
 	<line char="gf">
-		WAIT YEAH!! You're from---
+		ATTENDEZ OUI!! Tu vien de---
 	</line>
 
 	<line char="gf stress">
-		oh what was it called...
+		oh ca s'apelle comment deja..
 	</line>
 
 	<line char="OswaldTalk">
-		Haha! Great to hear my reputation still proceeds m-
+		Haha! c'est bon d'entendre que ma reputation est toujour d'actualité m-
 	</line>
 
 	<line char="bf">
-		You're Spinel! From Steven Universe!
+		Tu est Spinel! De Steven Universe!
 	</line>
 
 	<line char="OswaldVacand">
@@ -122,51 +122,51 @@
 	</line>
 
 	<line char="OswaldVacand">
-		no.
+		non.
 	</line>
 
 	<line char="gf">
-		you're one of them 'Animaniacs', right!?
+		tu un des 'Animaniacs', non!?
 	</line>
 
 	<line char="OswaldSad">
-		Pardon??
+		pardon??
 	</line>
 
 	<line char="bf">
-		OH! I KNOW! I KNOW!
+		OH! JE SAIT JE SAIT!
 	</line>
 
 	<line char="bf">
-		You're Mickey Mouse!
+		tu est Mickey Mouse!
 	</line>
 
 	<line char="OswaldUpset">
-		I am...
+		Je Suit...
 	</line>
 
 	<line char="OswaldUpset">
-		a fucking...
+		un putin...
 	</line>
 
 	<line char="OswaldUpset">
-		RABBIT!!!!!
+		de LAPIN!!!!!
 	</line>
 
 	<line char="bf">
-		yeah but you look like an old geezer boobtoob cartoo-
+		oui mais tu resemble a un  vieux de carto-
 	</line>
 
 	<line char="OswaldUpset">
-		OSWALD! My name is OSWALD THE LUCKY RABBIT!
+		OSWALD! Mon nom est OSWALD LE LAPIN CHANCEUX!
 	</line>
 
 	<line char="OswaldSad">
-		And I am auditioning for a music gig here.
+		Et J'auditionne pour un concert de musique.
 	</line>
 
 	<line char="gf stress">
-		Th-that was my next guess!... haha...
+		Ce-cetais ma prochine estimation!... haha...
 	</line>
 
 	<line char="bf pissed">
@@ -174,11 +174,11 @@
 	</line>
 
 	<line char="bf">
-		You gonna show me what you got or what??
+		Tu va me montre ce que tu a en reserve ou quoi??
 	</line>
 
 	<line char="OswaldTalk">
-		With Pleasure!
+		Avec Plaisir!
 	</line>
 
 </dialogue>
