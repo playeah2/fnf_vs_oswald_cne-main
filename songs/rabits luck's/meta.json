@@ -3,14 +3,15 @@
 	"opponentModeAllowed": true,
 	"coopAllowed": true,
 	"stepsPerBeat": 4,
-	"bpm": 100,
+	"bpm": 124,
 	"difficulties": [
 		"hard"
 	],
 	"needsVoices": true,
-	"parsedColor": -6296577,
+	"parsedColor": -6296065,
 	"displayName": "rabits luck's",
 	"icon": "oswald",
 	"name": "rabits luck's",
-	"color": "#9FEBFF"
+	"color": "#9FEDFF",
+	"customValues": {}
 }
