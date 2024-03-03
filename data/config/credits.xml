@@ -1,5 +1,19 @@
 <!DOCTYPE codename-mod-credits>
 <!-- TEMPLATE FOR CUSTOM CREDITS!!! -->
-<menu name="Mod Credits" desc="Modify mod credits here">
-	<credit name="Credit Example" desc="Click me to know more about me!" icon="credit icon example" size="130" url="https://youtu.be/fugtxz1znVw"/>
+<menu name="vs owald cne port" desc="">
+	<credit name="playeah" desc="the guys who made the port" icon="credit icon example" size="130" url="https://twitter.com/playeah2"/>
+</menu>
+
+<menu name="vs oswald" desc="the original creator of the mod">
+	<credit name="Jakeneutron" desc="Lead Composer, animator, & Director of Vs Oswald" icon="credit icon example" size="130" url="https://www.youtube.com/channel/UC6_L7fnczNalFZyBthUE9oA"/>
+
+	<credit name="jGlazey" desc="Asistant Animation & Charter" icon="credit icon example" size="130" url="https://twitter.com/jGlazey/likes"/>
+
+	<credit name="N O M I E" desc="Background Artist" icon="credit icon example" size="130" url="https://twitter.com/NomDomeStudios"/>
+
+	<credit name="Mathesu" desc="Charter" icon="credit icon example" size="130" url="https://twitter.com/MattPogg"/>
+
+	<credit name="Sadowfi" desc="Programing Advice" icon="credit icon example" size="130" url="https://twitter.com/Shadowfi1385?s=09"/>
+		
+	<credit name="vs Oswald" desc="the original gamebanana page" icon="credit icon example" size="130" url="https://gamebanana.com/mods/330889"/>
 </menu>

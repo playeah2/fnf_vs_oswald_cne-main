@@ -1,5 +1,8 @@
 <!DOCTYPE codename-mod-options>
 <!-- TEMPLATE FOR CUSTOM OPTIONS!!! -->
 <menu name="Oswald option" desc="Modify  mod options here">
-	<number id="Language" name="Language" desc="Choose Language english [0] or french [1]" min="0" max="1" change="1"/>
+		<choice id="Language" name="Language" min="0" max="1" change="1">
+			<value name="English" value= "0"/>
+			<value name="French" value= "1"/>
+	</choice>
 </menu>

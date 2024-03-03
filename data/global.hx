@@ -2,7 +2,7 @@ import funkin.backend.utils.NativeAPI;
 import lime.graphics.Image;
 
 function new(){
-    if (FlxG.save.data.Language == null) FlxG.save.data.Language == String;
+    if (FlxG.save.data.Language == null) FlxG.save.data.Language == ;
 }
 
 window.title = "FNF VS OSWALD";

@@ -14,7 +14,7 @@
 
 	<!-- Lines -->
 	<line char="bf" changeMusic="rabbitfoot">
-		 Le dernier était un fiasco... Qui est le prochain?
+		 Le dernier était un fiasco... Qui est le prochain ?
 	</line>
 
 	<line char="gf">
@@ -22,11 +22,11 @@
 	</line>
 
 	<line char="gf">
-		Et je ne peux pas vraiment le lire
+		Et je ne peux pas vraiment le lire...
 	</line>
 
 	<line char="gf">
-		Je devrais juste l'appeler?
+		Je devrais juste l'appeler ?
 	</line>
 
 	<line char="bf">
@@ -38,31 +38,31 @@
 	</line>
 
 	<line char="OswaldTalk">
-		Hey Hey!
+		Hey Hey !
 	</line>
 
 	<line char="bf">
-		Yo Yo!
+		Yo Yo !
 	</line>
 
 	<line char="gf">
-		Bonjour! Pouvez vous nous dire votre nom et pour quoi vous auditionez ?
+		Bonjour! Pouvez-vous nous dire votre nom et pourquoi vous auditionez ?
 	</line>
 
 	<line char="gf">
-		Aussi faites gaffe a faire face a la caméra !
+		Aussi faites gaffe à faire face à la caméra !
 	</line>
 
 	<line char="OswaldTalk">
-		Camera, vous dites!?
+		Caméra, vous dites !?
 	</line>
 
 	<line char="OswaldTalk">
-		Voyons voyons, bonjour la compagnie!
+		Voyons voyons, bonjour la compagnie !
 	</line>
 
 	<line char="OswaldTalk">
-		Mon nom est celui que beaucoup d'entre vous ont peut-être entendu, mais ne vieillit certainement jamais!
+		Mon nom est celui que beaucoup d'entre vous ont peut-être entendu, mais ne vieillit certainement jamais !
 	</line>
 
 	<line char="gf stress">
@@ -74,35 +74,35 @@
 	</line>
 
 	<line char="bf">
-		Frère dis juste ton blaze.
+		Frère, dis juste ton blaze.
 	</line>
 
 	<line char="OswaldSad">
-		Desolé...
+		Désolé...
 	</line>
 
 	<line char="OswaldTalk">
-		Donc je vais y venir! Mon nom est-
+		Donc je vais y venir ! Mon nom est-
 	</line>
 
 	<line char="gf">
-		Attends 2 secondes!
+		Attends 2 secondes !
 	</line>
 
 	<line char="gf">
-		tu AS l'air familier!
+		Tu AS l'air familier !
 	</line>
 
 	<line char="OswaldVacand">
-		AH?
+		AH ?
 	</line>
 
 	<line char="OswaldTalk">
-		AH! V...Vraiment!?
+		AH! V...Vraiment !?
 	</line>
 
 	<line char="gf">
-		ATTENDS OUI!! Tu viens de-
+		ATTENDS OUI !! Tu viens de-
 	</line>
 
 	<line char="gf stress">
@@ -110,11 +110,11 @@
 	</line>
 
 	<line char="OswaldTalk">
-		Haha! C'est bon d'entendre que ma reputation est toujours d'actuali-
+		Haha ! C'est bon d'entendre que ma reputation est toujours d'actuali-
 	</line>
 
 	<line char="bf">
-		Spinel! De Steven Universe!
+		Spinel ! De Steven Universe !
 	</line>
 
 	<line char="OswaldVacand">
@@ -126,19 +126,19 @@
 	</line>
 
 	<line char="gf">
-		Tu es l'un de ces 'Animaniacs', non!?
+		Tu es l'un de ces 'Animaniacs', non !?
 	</line>
 
 	<line char="OswaldSad">
-		Pardon?????
+		Pardon ?????
 	</line>
 
 	<line char="bf">
-		OH! JE SAIS JE SAIS!
+		OH! JE SAIS, JE SAIS !
 	</line>
 
 	<line char="bf">
-		Tu es Mickey Mouse!
+		Tu es Mickey Mouse !
 	</line>
 
 	<line char="OswaldUpset">
@@ -150,15 +150,15 @@
 	</line>
 
 	<line char="OswaldUpset">
-		de LAPIN!!!!!
+		de LAPIN !!!!!
 	</line>
 
 	<line char="bf">
-		Oui mais tu ressemble a un de ces vieux de cartoo-
+		Oui, mais tu ressembles à un de ces vieux de cartoo-
 	</line>
 
 	<line char="OswaldUpset">
-		OSWALD! Mon nom est OSWALD LE LAPIN CHANCEUX!
+		OSWALD! Mon nom est OSWALD LE LAPIN CHANCEUX !
 	</line>
 
 	<line char="OswaldSad">
@@ -166,19 +166,19 @@
 	</line>
 
 	<line char="gf stress">
-		C...c'était ma prochaine estimation!... haha...
+		C...c'était ma prochaine estimation ! haha...
 	</line>
 
 	<line char="bf pissed">
-		OKAYYYYYY 'Oswald'!
+		OKAYYYYYY 'Oswald' !
 	</line>
 
 	<line char="bf">
-		Bon! Tu vas me montrer ce que tu as en réserve ou quoi??
+		Bon ! Tu vas me montrer ce que tu as en réserve ou quoi ??
 	</line>
 
 	<line char="OswaldTalk">
-		Avec plaisir!
+		Avec plaisir !
 	</line>
 
 </dialogue>
