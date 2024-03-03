@@ -12,4 +12,5 @@ How to use and play:
 -and play!
 
 features:
-custom languages: english and french for now
+custom languages: 
+english and french for now
