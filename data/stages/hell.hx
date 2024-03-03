@@ -16,10 +16,18 @@ function create(){
     bg2 = new FlxSprite(0, 0).loadGraphic(Paths.image("stages/hell/SomewhereBG_C"));
     bg2.antialiasing = true;
     bg2.visible = false;
+
+    hand = new FlxSprite(600, 100);
+	hand.frames = Paths.getSparrowAtlas("stages/hell/Handsies");
+	hand.animation.addByPrefix("idle", "Handies", 24, false);
+	hand.scrollFactor.set(1, 1);
+	
+
     add(bg2);
     add(bg1);
     add(boyfriend);
     add(dad);
+    add(hand);
     dad.visible = false;
     boyfriend.alpha = 0;
     camHUD.alpha = 0;
@@ -36,8 +44,11 @@ function stepHit(curStep:Int){
         case 837:
             bg1.destroy();
             bg2.visible = true;
+        case 989:
+            hand.animation.play("idle");
             
         case 1000:
+            remove(hand);
             dad.visible = false;
             bg2.visible = false;
             boyfriend.visible = false;
